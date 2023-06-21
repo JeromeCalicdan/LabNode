@@ -1,0 +1,21 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1687230082323,
+            "name": "C:\\Users\\calje\\node\\logs\\access.2023-06-20.log",
+            "hash": "4271b4aa83384f5abc6fb240f4404b3d"
+        },
+        {
+            "date": 1687309772463,
+            "name": "C:\\Users\\calje\\node\\logs\\access.2023-06-21.log",
+            "hash": "68cdeaf7b7a2f07d487e44d1e5898446"
+        }
+    ]
+}
